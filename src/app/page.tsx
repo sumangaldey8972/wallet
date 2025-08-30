@@ -171,9 +171,6 @@ export default function Home() {
                         </p>
                       </div>
                     </div>
-                    <span className="text-xs bg-gray-600 px-2 py-1 rounded-full whitespace-nowrap">
-                      {i % 2 === 0 ? 'IN' : 'OUT'}
-                    </span>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs sm:text-sm">
